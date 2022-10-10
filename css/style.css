@@ -304,7 +304,6 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	
 	background-image:    url(../img/bg1.jpg);
     	background-size:     cover;                      	background-repeat:   no-repeat;
     	background-position: center center; 
@@ -332,7 +331,7 @@ hr {
 }
 
 .intro .slogan h2 {
-	color: #3485badb;
+	color: #67B0D1;
 	text-shadow: none;
 	font-size: 60px;
 	line-height: 60px;
@@ -348,7 +347,7 @@ hr {
 }
 
 .intro .slogan h4 {
-	color: #3485badb;
+	color: #67B0D1;
 	text-shadow: -1px 1px 1px #000;
 }
 
