@@ -304,7 +304,7 @@ hr {
 .intro {
 	width:100%;
 	position:relative;
-	background-image:    url(../img/bg1.jpg);
+	background-image:    url(../img/bg1.png);
     	background-size:     contain;                      	background-repeat:   no-repeat;
     	background-position: center center; 
 }
