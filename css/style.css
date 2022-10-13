@@ -299,11 +299,18 @@ hr {
 /* ===========================
 --- Images
 ============================ */
-img {
+.image1 {
   width: 300px;
   height: auto;
 	position: relative;
 }
+
+.image2 {
+  width: 600px;
+  height: auto;
+	position: relative;
+}
+
 /* ===========================
 --- Intro
 ============================ */
