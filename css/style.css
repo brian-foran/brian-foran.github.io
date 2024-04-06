@@ -367,7 +367,7 @@ hr {
 	color: #67b0d1;
 	text-shadow: none;
 	font-size: 60px;
-	padding: right 10%;
+	padding-right: 10%;
 	line-height: 0px;
 	font-weight: 700;
 	font-family: Montserrat, sans-serif;
@@ -383,7 +383,7 @@ hr {
 
 .intro .slogan h4 {
 	color: #67B0D1;
-	padding: right 10%;
+	padding-right: 10%;
 	text-shadow: -1px 1px 1px #31708f;
 }
 
