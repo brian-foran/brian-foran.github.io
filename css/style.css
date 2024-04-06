@@ -311,6 +311,12 @@ hr {
 	position: relative;
 }
 
+.smallImage{
+    width: 60%;
+    height: auto;
+      position: relative;
+  }
+
 /* ===========================
 --- containers
 ============================ */
